@@ -159,3 +159,13 @@ git merge new-feature
 ```
 
 For this project, each command branch is merged into `main`.
+
+### `git log`
+
+Displays the commit history of a Git repository.
+
+```bash
+git log
+```
+
+Use `git log --oneline` for a shorter history view.
