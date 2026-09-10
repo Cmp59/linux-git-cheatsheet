@@ -17,3 +17,17 @@ Example output:
 ```text
 /c/Users/user/projects
 ```
+
+### `ls`
+
+Lists files and directories in the current directory.
+
+```bash
+ls
+```
+
+Use `ls -l` to display detailed information.
+
+```bash
+ls -l
+```
