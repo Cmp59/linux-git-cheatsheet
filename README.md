@@ -41,3 +41,13 @@ cp file1.txt file2.txt
 ```
 
 This creates a copy of `file1.txt` named `file2.txt`.
+
+### `cd`
+
+Changes the current working directory.
+
+```bash
+cd Documents
+```
+
+Use `cd ..` to move up one directory.
