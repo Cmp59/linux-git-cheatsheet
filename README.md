@@ -51,3 +51,13 @@ cd Documents
 ```
 
 Use `cd ..` to move up one directory.
+
+### `mkdir`
+
+Creates a new directory.
+
+```bash
+mkdir projects
+```
+
+This creates a directory named `projects`.
