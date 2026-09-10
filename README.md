@@ -111,3 +111,13 @@ git add README.md
 ```
 
 Use `git add .` to stage all changed files.
+
+### `git commit`
+
+Creates a saved snapshot of staged changes.
+
+```bash
+git commit -m "Add new command"
+```
+
+The `-m` option specifies the commit message.
