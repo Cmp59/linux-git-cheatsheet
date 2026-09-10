@@ -31,3 +31,13 @@ Use `ls -l` to display detailed information.
 ```bash
 ls -l
 ```
+
+### `cp`
+
+Copies files or directories.
+
+```bash
+cp file1.txt file2.txt
+```
+
+This creates a copy of `file1.txt` named `file2.txt`.
