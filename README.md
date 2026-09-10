@@ -101,3 +101,13 @@ git status
 ```
 
 It shows modified, staged, and untracked files.
+
+### `git add`
+
+Adds changes to the Git staging area.
+
+```bash
+git add README.md
+```
+
+Use `git add .` to stage all changed files.
