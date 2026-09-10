@@ -169,3 +169,13 @@ git log
 ```
 
 Use `git log --oneline` for a shorter history view.
+
+### `git push`
+
+Uploads local commits to a remote Git repository such as GitHub.
+
+```bash
+git push origin main
+```
+
+Use `git push -u origin main` to set the upstream branch.
