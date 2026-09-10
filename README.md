@@ -81,3 +81,13 @@ mv old.txt new.txt
 ```
 
 This renames `old.txt` to `new.txt`.
+
+### `rm`
+
+Removes files or directories.
+
+```bash
+rm example.txt
+```
+
+Use `rm -r directory_name` to remove a directory and its contents.
