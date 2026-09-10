@@ -149,3 +149,13 @@ Create and switch to a new branch with:
 ```bash
 git switch -c new-feature
 ```
+
+### `git merge`
+
+Combines changes from another branch into the current branch.
+
+```bash
+git merge new-feature
+```
+
+For this project, each command branch is merged into `main`.
