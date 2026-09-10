@@ -135,3 +135,17 @@ Create a new branch with:
 ```bash
 git branch new-feature
 ```
+
+### `git switch`
+
+Switches between Git branches.
+
+```bash
+git switch main
+```
+
+Create and switch to a new branch with:
+
+```bash
+git switch -c new-feature
+```
