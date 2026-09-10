@@ -71,3 +71,13 @@ touch example.txt
 ```
 
 This creates an empty file named `example.txt`.
+
+### `mv`
+
+Moves or renames files and directories.
+
+```bash
+mv old.txt new.txt
+```
+
+This renames `old.txt` to `new.txt`.
