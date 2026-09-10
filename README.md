@@ -61,3 +61,13 @@ mkdir projects
 ```
 
 This creates a directory named `projects`.
+
+### `touch`
+
+Creates a new empty file or updates the timestamp of an existing file.
+
+```bash
+touch example.txt
+```
+
+This creates an empty file named `example.txt`.
