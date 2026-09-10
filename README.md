@@ -91,3 +91,13 @@ rm example.txt
 ```
 
 Use `rm -r directory_name` to remove a directory and its contents.
+
+### `git status`
+
+Displays the current state of the working directory and staging area.
+
+```bash
+git status
+```
+
+It shows modified, staged, and untracked files.
