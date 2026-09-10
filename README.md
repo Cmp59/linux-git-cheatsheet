@@ -121,3 +121,17 @@ git commit -m "Add new command"
 ```
 
 The `-m` option specifies the commit message.
+
+### `git branch`
+
+Lists or creates Git branches.
+
+```bash
+git branch
+```
+
+Create a new branch with:
+
+```bash
+git branch new-feature
+```
